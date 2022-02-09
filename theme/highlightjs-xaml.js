@@ -1,0 +1,1 @@
+hljs.registerAliases(["xaml"], { "languageName":"xml" });

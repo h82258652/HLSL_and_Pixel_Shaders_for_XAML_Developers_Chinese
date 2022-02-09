@@ -1,0 +1,10 @@
+[book]
+authors = ["h82258652"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+title = "适用于 XAML 开发者的 HLSL 和像素着色器"
+
+[output.html]
+additional-js = ["theme/highlightjs-xaml.js", "theme/hlsl.min.js", "theme/highlightjs-hlsl.js"]
+no-section-label = true
